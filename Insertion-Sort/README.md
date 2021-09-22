@@ -35,10 +35,10 @@ Insertion sort is a simple sorting algorithm that works the way we sort playing 
 Below is an iterative algorithm for insertion sort
 ### Algorithm 
 // Sort an arr[] of size n
-insertionSort(arr, n) 
-    Loop from i = 1 to n-1.
-       a) Pick element arr[i] and insert
-          it into sorted sequence arr[0..i-1] 
+insertionSort(arr, n)  
+    Loop from i = 1 to n-1.  
+       a) Pick element arr[i] and insert  
+          it into sorted sequence arr[0..i-1]  
 
 ## How to implement it recursively? 
 Recursive Insertion Sort has no performance/implementation advantages, but can be a good question to check one’s understanding of Insertion Sort and recursion.
