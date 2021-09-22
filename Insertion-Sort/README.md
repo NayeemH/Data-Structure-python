@@ -42,7 +42,7 @@ insertionSort(arr, n)
 
 ## How to implement it recursively? 
 Recursive Insertion Sort has no performance/implementation advantages, but can be a good question to check one’s understanding of Insertion Sort and recursion.
-If we take a closer look at Insertion Sort algorithm, we keep processed elements sorted and insert new elements one by one in the inserted array.
+If we take a closer look at Insertion Sort algorithm, \we keep processed elements sorted and insert new elements one by one in the inserted array.
 ## Recursion Idea. 
 
 1. Base Case: If array size is 1 or smaller, return.
