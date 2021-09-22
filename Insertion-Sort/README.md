@@ -24,6 +24,6 @@ Insertion sort takes maximum time to sort if elements are sorted in reverse orde
 ### Algorithmic Paradigm: Incremental Approach
 ### Sorting In Place: Yes
 ### Stable: Yes
-Online: Yes
+### Online: Yes
 ### Uses: 
 Insertion sort is used when number of elements is small. It can also be useful when input array is almost sorted, only few elements are misplaced in complete big array.
