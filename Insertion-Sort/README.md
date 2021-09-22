@@ -34,7 +34,7 @@ Insertion sort is used when number of elements is small. It can also be useful w
 Insertion sort is a simple sorting algorithm that works the way we sort playing cards in our hands.
 Below is an iterative algorithm for insertion sort
 ### Algorithm 
-// Sort an arr[] of size n
+// Sort an arr[] of size n  
 insertionSort(arr, n)  
     Loop from i = 1 to n-1.  
        a) Pick element arr[i] and insert  
