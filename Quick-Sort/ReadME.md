@@ -156,7 +156,7 @@ Consider an array which has many redundant elements. For example, {1, 4, 2, 4, 2
 3. arr[j..r] elements greater than pivot. 
 
 ### Can we implement QuickSort Iteratively? 
-Yes, please refer Iterative Quick Sort.
+Yes
 
 ### Why Quick Sort is preferred over MergeSort for sorting Arrays 
 Quick Sort in its general form is an in-place sort (i.e. it doesn’t require any extra storage) whereas merge sort requires O(N) extra storage, N denoting the array size which may be quite expensive. Allocating and de-allocating the extra space used for merge sort increases the running time of the algorithm. Comparing average complexity we find that both type of sorts have O(NlogN) average complexity but the constants differ. For arrays, merge sort loses due to the use of extra O(N) storage space.
